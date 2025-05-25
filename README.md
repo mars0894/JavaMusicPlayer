@@ -43,5 +43,3 @@ A lightweight Java music player with playlist management, built using Swing and 
 
 
 mvn compile exec:java -Dexec.mainClass="View.MainFrame"
-
-3. 
