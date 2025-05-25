@@ -1,0 +1,2 @@
+C:\Users\vasil\IdeaProjects\JavaSwingMusicPlayer\PROJECT\src\assets\01 - Fleetwood Mac - Rhiannon.mp3
+C:\Users\vasil\IdeaProjects\JavaSwingMusicPlayer\PROJECT\src\assets\02 - Fleetwood Mac - Don't Stop.mp3
